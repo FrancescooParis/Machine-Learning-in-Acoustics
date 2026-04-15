@@ -1,4 +1,2 @@
 # Acoustics
 Hell Yeah
-
-gas
